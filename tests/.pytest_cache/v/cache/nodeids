@@ -1,4 +1,13 @@
 [
+  "test_lucs.py::test_lucas0",
+  "test_lucs.py::test_lucas1",
+  "test_lucs.py::test_lucas2",
+  "test_lucs.py::test_lucas3",
+  "test_lucs.py::test_lucas4",
+  "test_lucs.py::test_sum_lucs0",
+  "test_lucs.py::test_sum_lucs1",
+  "test_lucs.py::test_sum_lucs2",
+  "test_lucs.py::test_sum_lucs3",
   "test_series.py::test_fibonacci",
   "test_series.py::test_fibonacci0",
   "test_series.py::test_fibonacci1",
