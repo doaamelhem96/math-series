@@ -1,9 +1,0 @@
-[
-  "test_series.py::test_fibonacci",
-  "test_series.py::test_fibonacci0",
-  "test_series.py::test_fibonacci1",
-  "test_series.py::test_fibonacci2",
-  "test_series.py::test_fibonacci3",
-  "test_series.py::test_fibonacci4",
-  "test_series.py::test_lucas"
-]
