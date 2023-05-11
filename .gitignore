@@ -1,4 +1,3 @@
-bin
-lib
-tests
+__pycache__
+
 .venv
