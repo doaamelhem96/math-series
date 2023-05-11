@@ -2,5 +2,4 @@ bin
 lib
 .pytest_cache
 __pycache__
-/home/duaa/math-series/tests/.pytest_cache
-/home/duaa/math-series/tests/__pycache__
+
