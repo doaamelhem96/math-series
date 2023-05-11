@@ -2,4 +2,4 @@ bin
 lib
 .pytest_cache
 __pycache__
-
+math-series
