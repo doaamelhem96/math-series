@@ -1,4 +1,4 @@
 bin
 lib
-math-series
+.pytest_cache
 __pycache__
