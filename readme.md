@@ -1,5 +1,29 @@
-# Author Name :Dua'a Melhem
-******
+# LAB - Class 02
+# Project: math-series
+## Author
+    Duaa Melhem
+             
+## Setup :
+.env requirements
+black==23.3.0
+click==8.1.3
+exceptiongroup==1.1.1
+iniconfig==2.0.0
+math-series==0.0.1
+mypy-extensions==1.0.0
+packaging==23.1
+pathspec==0.11.1
+platformdirs==3.5.0
+pluggy==1.0.0
+pytest==7.3.1
+tomli==2.0.1
+
+## How to initialize/run your application
+    * python series.py
+## Tests
+How do you run tests?
+    * pytest
+***
 ## Description of math-series Repo:
 it is about using:
 1. Recursion function.
