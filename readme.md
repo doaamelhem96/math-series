@@ -4,19 +4,20 @@
     Duaa Melhem
              
 ## Setup :
-.env requirements
-black==23.3.0
-click==8.1.3
-exceptiongroup==1.1.1
-iniconfig==2.0.0
-math-series==0.0.1
-mypy-extensions==1.0.0
-packaging==23.1
-pathspec==0.11.1
-platformdirs==3.5.0
-pluggy==1.0.0
-pytest==7.3.1
-tomli==2.0.1
+
+1. .env requirements
+2. black==23.3.0
+3. click==8.1.3
+4. exceptiongroup==1.1.1
+5. iniconfig==2.0.0
+6. math-series==0.0.1
+7. mypy-extensions==1.0.0
+8. packaging==23.1
+9. pathspec==0.11.1
+10. platformdirs==3.5.
+11. pluggy==1.0.0
+12. pytest==7.3.1
+13. tomli==2.0.1
 
 ## How to initialize/run your application
     * python series.py
