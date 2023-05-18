@@ -12,7 +12,7 @@ n=3 ==>fibonacci (3) =2
 '''
 def test_fibonacci0():
     actual=fibonacci (0)
-    expected=1
+    expected=0
     assert actual==expected
 def test_fibonacci1():
     actual=fibonacci (1)
@@ -20,16 +20,16 @@ def test_fibonacci1():
     assert actual==expected
 def test_fibonacci2():
     actual=fibonacci (2)
-    expected=2
+    expected=1
     assert actual==expected
 
 def test_fibonacci3():
      actual=fibonacci (3)
-     expected=3
+     expected=2
      assert actual==expected
 def test_fibonacci4():
     actual=fibonacci (4)
-    expected=5
+    expected=3
     assert actual==expected
 
 def test_sum_fibonacci0():

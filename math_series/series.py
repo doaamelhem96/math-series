@@ -10,13 +10,14 @@ another case as 'n >1'  the function repeats itself whithout need to use any loo
 and this what i mean by "recursive function"
 '''
 
-def fibonacci (n):
-   if n == 0:
-      return 1
-   if  n==1:
-       return 1
-   if n>1:
-     return(fibonacci(n-1) + fibonacci(n-2))
+def fibonacci(n):
+    if n == 0:
+        return 0
+    if n == 1:
+        return 1
+    if n > 1:
+        return fibonacci(n-1) + fibonacci(n-2)
+
 '''
 another example on recursive function lucas function 
  base cas is n =0 return 2 ; n=1 return 1 else repeat itself by 
